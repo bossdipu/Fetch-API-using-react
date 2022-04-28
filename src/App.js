@@ -28,7 +28,7 @@ function App() {
   if(loading){
     return (
       <div className='container' >
-        <img className='loader' src='spinner.gif' alt="" />
+        <img className='loader' src="spinner.gif" alt="" />
       </div>
     ) 
   }
